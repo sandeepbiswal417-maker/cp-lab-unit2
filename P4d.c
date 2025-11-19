@@ -9,5 +9,6 @@ int*p=display(arr,2);
 printf("%d",*p);
 return 0;
 }
-}
+
+
 
